@@ -5,7 +5,7 @@ spring:
     username: msa
     password: 1234
     driver-class-name: org.mariadb.jdbc.Driver
-    url: jdbc:mariadb://localhost:3306/pmh?serverTimezone=Asia/Seoul
+    url: jdbc:mariadb://localhost:3305/lsj?serverTimezone=Asia/Seoul
     # driver-class-name: com.mysql.cj.jdbc.Driver
     # url: jdbc:mysql://192.168.0.29:3306/msa?characterEncoding=UTF-8&serverTimezone=UTC
   output:
